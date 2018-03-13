@@ -1,0 +1,6 @@
+-Node es un entorno de ejecución para JavaScript 
+-Node.js usa un modelo de operaciones E/S sin bloqueo y orientado a eventos
+-Node nos permite escoger las librerias que necesitemos usar lo cual lo hace mucho maz eficaz y veloz que el lenguaje de php
+-Ademas de ser más rápido no necesita de un servidor tomcat o apache para correr en nuestro host
+-
+Node.js puede ser combinado con una base de datos no relacional por ejemplo, MongoDB o CouchDB y también JSON lo que permite desarrollar en un entorno de desarrollo JavaScript unificado
