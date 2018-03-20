@@ -1,0 +1,40 @@
+                       
+                       INFORME DE LABORATORIO Nª2
+                       ..........................
+
+Nombre: Mayhua Ubillas Jhordan Leonardo                       Grupo:A
+-----------------------------------------------            -------------
+
+
+2.3. El error aparece porque no instanciamos “arreglo parametros”
+Para solucionarlo deberiamos instanciarlo
+
+2.4. 		(Imagen: IMG_2.4)
+
+2.5. 		(Imagen: IMG2_2.5)
+
+2.6. Cambiamos el valor por la url del parametro instanciado a nuestra manera y al llevarnos al formulario el valor en este caso "Jhordan" o "Batman" como en el laboratorio es el que se visualiza
+
+3.3. 		(Imagen: IMG_3.3)
+
+3.4. En vez de retornarlo con repleace lo podriamos retornar con un simple return idicando los valores a enviar. 
+
+3.8. Reciclar funciones o reutilizar sin que afecte el codigo principal es importante a la hora de programar, para no escribir codigo o redundar en el codigo ya teniendo funciones que no ocupe mayor espacio al ya usado.
+
+5.2. 		(Imagen: IMG_5.2-1, IMG_5.2-2)
+
+5.3. 		(Imagen: IMG_5.3)
+
+5.4.
+
+5.7.
+
+6.2.        (Imagen: IMG_6.2)
+
+6.3. 		(Imagen: IMG_6.3)
+
+6.4. 		(Imagen: IMG_6.4)
+
+6.5. 		(Imagen: IMG_6.5)
+
+6.6. 		(Imagen: IMG_6.6)

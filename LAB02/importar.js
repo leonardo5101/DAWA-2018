@@ -1,20 +1,20 @@
 var http = require('http'),
      fs = require('fs'),
-     parser=require('parser_vars.js'),
-     p= parser.parse_vars,
+     parser=require('./parser_vars.js'),
+     p = parser.parse_vars,
      datos= parser.batman;
 
 
 http.createServer(function(req,res){
-	fs.readFile('form.html',function(err,html){
+	fs.readFile('./form.html',function(err,html){
 		var html_string = html.toString();
 
-		var respuesta =p(req),
+		var respuesta = p(req),
 		parametros = respuesta ['parametros'],
 		valores = respuesta['valores'];
 
 		for(var i=0;i<parametros.length;i++){
-			html_string =html_string.replace('{'+parametros[i]+'}',valores[i]);
+			 html_string =html_string.replace('{'+parametros[i]+'}',valores[i]);
 		}
 
 		html_string =html_string.replace('{identidad}', datos['identidad']);
