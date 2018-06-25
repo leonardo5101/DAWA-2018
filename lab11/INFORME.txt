@@ -1,0 +1,17 @@
+				Lab 11-DAWA
+Alumno: Mayhua Ubillas Jhordan Leonardo.             Carrera: C15.      Grupo: A
+................................................................................................................................................................
+
+
+CONCLUSIONES:
+
+  Aunque el servidor no reciba los datos, usando POST nos da el mismo objeto de respuesta con información que podemos
+  usar en .then()
+- Podemos subir animaciones en formato css y cargarlo como un componente para usarlo en React.
+- Usamos componentes auxiliares para evitar la regla de usar div para englobar componentes.
+- Importando Axios podemos realizar operaciones de manera as’ncrona durante el ciclo de vida de nuestra aplicacion,
+  como realizar un get a una dirección para obtener data y asignarla a una variable interna, todo esto antes de que
+  se cargue un componente que use dicha variable.
+- Para cargar imagenes a nuestro proyecto en React simplemente las importamos del directorio donde este situada,
+  para luego cargarlo con una etiqueta <img>  
+- Asi como usamos get para obtener información de una dirección, tambien podemos usar post para insertar data.
